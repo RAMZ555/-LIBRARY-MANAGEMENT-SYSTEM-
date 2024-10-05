@@ -7,8 +7,6 @@ Efficient Book Management: Easily add, edit, and delete books from your library 
 
 User Account Management: Seamlessly manage user accounts, including registration, authentication, and authorization. Keep track of user borrowing history and overdue books to ensure a smooth lending process.
 
-Transaction Tracking: Monitor all library transactions, including book issuances, returns, and renewals. Generate detailed reports on transaction history to gain insights into library usage patterns.
-
 Customizable Settings: Tailor the system to suit your library's specific needs with customizable settings and configurations. Adjust lending periods, fine policies, and user privileges to align with your library's policies and procedures.
 
 Responsive Design: Access the system from any device, including desktop computers, laptops, tablets, and smartphones. Our responsive design ensures a seamless user experience across all platforms.
